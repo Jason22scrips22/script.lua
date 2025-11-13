@@ -1,4 +1,4 @@
-local items = {
+script.lua local items = {
     "Xbox Shutter Shades",
     "Xbox Belt Bag"
 }
